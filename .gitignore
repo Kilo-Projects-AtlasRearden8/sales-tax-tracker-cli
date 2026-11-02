@@ -1,6 +1,12 @@
-__pycache__/
-*.py[cod]
-*.pyo
-*.env
-sales_tax_data.json
 *.csv
+*.env
+*.py[cod]
+*.pyc
+*.pyo
+.env
+.env.*
+.venv/
+__pycache__/
+dist/*.tmp
+node_modules/
+sales_tax_data.json
